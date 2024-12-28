@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <!-- Add a green circle with fill -->
+    <circle cx="50" cy="50" r="45" stroke="green" stroke-width="4" fill="green"/>
+    <!-- Add a smaller black play button -->
+    <polygon points="45,35 45,65 65,50" fill="black"/>
+</svg>
